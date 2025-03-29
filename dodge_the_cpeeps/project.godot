@@ -11,9 +11,10 @@ config_version=5
 [application]
 
 config/name="godot_dodge_the_creeps_cpp"
+config/tags=PackedStringArray("2d", "demo", "official")
 run/main_scene="uid://k8tjctvwcvl3"
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://icon.svg"
+config/icon="uid://d8b7gupk2njd"
 
 [display]
 
